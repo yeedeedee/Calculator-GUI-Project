@@ -20,8 +20,7 @@ This project demonstrates how to build a graphical user interface (GUI) in Pytho
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tkinter-calculator.git
-cd tkinter-calculator
+gh repo clone yeedeedee/Calculator-GUI-Projectcd tkinter-calculator
 ```
 
 ### 2. Run the script

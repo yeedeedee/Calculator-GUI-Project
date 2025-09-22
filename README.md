@@ -29,8 +29,7 @@ cd tkinter-calculator
 Make sure you have Python installed (≥3.7). Then run:
 
 ```bash
-python calculator.py
-```
+Calculator_GUI.py```
 
 ---
 
@@ -39,7 +38,7 @@ python calculator.py
 ```
 Calculator-GUI-Project/
 │
-├── calculator.py   # Main application file
+├── Calculator_GUI.py   # Main application file
 ├── README.md       # Project documentation
 ```
 
@@ -77,11 +76,3 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-
